@@ -60,3 +60,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # アプリケーションを完成させよう2＞1章＞
 # Railsで画像サイズの変更を行う＞画像のサイズ変更を行うGemを導入する
 gem 'image_processing', '~>1.2'
+
+# アプリケーションを完成させよう2＞4章＞
+# Gemを導入する手順
+gem 'devise'
